@@ -1,0 +1,6 @@
+import io.netty.channel.sctp.oio.OioSctpServerChannel;
+public class FunctionUse7417 {
+public void funcUse() {
+OioSctpServerChannel oiosctpserverchannel = new OioSctpServerChannel();
+}
+}
